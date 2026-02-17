@@ -50,11 +50,10 @@ Web‑App Developer (Intern)
 
 Aug 2022 – Dec 2022
 
-• Developed and maintained SQL Server databases and SSIS packages to support data integration, reporting, and business intelligence needs.
+• Initiated development of the bank’s Customer Relationship Management (CRM) application, building foundational components and collaborating with business units to define early requirements.
+• Developed and maintained SQL Server databases and SSIS packages to support CRM data integration, reporting, and business intelligence needs.
 • Built data pipelines to aggregate and analyze campaign metrics, providing real‑time insights for decision‑makers.
 • Gained exposure to banking technologies, compliance requirements, and operational processes, applying insights to improve system efficiency and reliability.
-
-
 ---
 
 EDUCATION
