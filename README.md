@@ -40,12 +40,12 @@ Business Analyst
 
 Jan 2023 – Oct 2024
 
-• Led the enterprise rollout of the Customer Relationship Management (CRM) system across all bank branches, training over 200 employees, including managers and executives.
-• Collaborated with stakeholders to define business requirements and configure CRM functionalities to support sales, service, and operational processes.
-• Extracted, processed, and analyzed campaign data using SQL Server, delivering accurate and actionable insights for marketing and DTC initiatives.
-• Supported campaign setup, execution, and performance tracking across multiple channels, ensuring timely delivery of insights and operational alignment.
-
-
+Administer and enhance enterprise banking applications, including the Mortgage Appraisals system, Commercial Credit Applications, and the Customer Relationship Management (CRM) platform originally developed during internship.
+• Manage incidents by diagnosing issues, performing root‑cause analysis, and coordinating resolutions with technical teams and business stakeholders.
+• Coordinate release activities, including testing, validation, and deployment of new features and system updates.
+• Rebuilt the Personal Loan campaign process by migrating legacy SAS Enterprise workflows to Python, improving performance, maintainability, and automation capabilities.
+• Design and implement automated workflows using Power Automate and Python, reducing manual effort and improving operational efficiency.
+• Serve as a primary liaison between IT and business units, ensuring clear communication, accurate requirement gathering, and successful adoption of system enhancements.
 Web‑App Developer (Intern)
 
 Aug 2022 – Dec 2022
